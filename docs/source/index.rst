@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+188betct Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`188bet <https://188betct.com/>`_ - Nhà cái uy tín hàng đầu Việt Nam chuyên cung cấp sản phẩm cá cược thể thao, Casino, lô đề online. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 15/68 Lương Thế Vinh, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0988188188
 
-Contents
---------
+Email: admin@188betct.com
 
-.. toctree::
+Website: https://188betct.com/
 
-   usage
-   api
+#188bet, #188_bet, #188betct, #188bet_ct, #nhacai188bet, #188betlink, #linkvao188bet, #dangky188bet, #188betdangnhap, #taiapp188bet, #khuyenmai188bet
